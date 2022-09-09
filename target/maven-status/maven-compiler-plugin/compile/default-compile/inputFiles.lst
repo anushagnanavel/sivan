@@ -1,0 +1,7 @@
+/home/e1068/Projects/vertx-rest-api/src/main/java/io/github/tiagorgt/vertx/api/service/PositionService.java
+/home/e1068/Projects/vertx-rest-api/src/main/java/io/github/tiagorgt/vertx/api/entity/User.java
+/home/e1068/Projects/vertx-rest-api/src/main/java/io/github/tiagorgt/vertx/api/Verticle.java
+/home/e1068/Projects/vertx-rest-api/src/main/java/io/github/tiagorgt/vertx/api/repository/PositionDao.java
+/home/e1068/Projects/vertx-rest-api/src/main/java/io/github/tiagorgt/vertx/api/entity/Position.java
+/home/e1068/Projects/vertx-rest-api/src/main/java/io/github/tiagorgt/vertx/api/repository/UserDao.java
+/home/e1068/Projects/vertx-rest-api/src/main/java/io/github/tiagorgt/vertx/api/service/UserService.java

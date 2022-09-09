@@ -1,0 +1,7 @@
+io/github/tiagorgt/vertx/api/repository/PositionDao.class
+io/github/tiagorgt/vertx/api/entity/Position.class
+io/github/tiagorgt/vertx/api/entity/User.class
+io/github/tiagorgt/vertx/api/service/UserService.class
+io/github/tiagorgt/vertx/api/service/PositionService.class
+io/github/tiagorgt/vertx/api/Verticle.class
+io/github/tiagorgt/vertx/api/repository/UserDao.class
